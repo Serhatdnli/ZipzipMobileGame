@@ -21,23 +21,23 @@
 
 ## Oyun İçi Ekran Görüntüleri / Game Screenshots
 
-<img src="https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/58a1cdce-9b6a-4469-af26-ed31e16b68b3.jpg?raw=true" width="50%">
-<img src="https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/85033b7f-5825-4dd5-8751-252ece68b9f4.jpg?raw=true" width="50%">
-<img src="https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/afc9139e-6c0d-41ae-bb88-032b9501f1a6.jpg?raw=true" width="50%">
-<img src="https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/eca51b80-393d-4210-8c20-3f9e073c6c58.jpg?raw=true" width="50%">
-<img src="https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/serat.png?raw=true" width="50%">
+<img src="https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/58a1cdce-9b6a-4469-af26-ed31e16b68b3.jpg?raw=true" width="50%">
+<img src="https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/85033b7f-5825-4dd5-8751-252ece68b9f4.jpg?raw=true" width="50%">
+<img src="https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/afc9139e-6c0d-41ae-bb88-032b9501f1a6.jpg?raw=true" width="50%">
+<img src="https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/eca51b80-393d-4210-8c20-3f9e073c6c58.jpg?raw=true" width="50%">
+<img src="https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/serat.png?raw=true" width="50%">
 
 
 ## Katkı/Contributing
 
 - Karakterler/Characters : [Gameart2D](www.gameart2d.com)
 - Arkaplan/Backgrounds : [Craftpix](craftpix.net)
-- Müzik ve Ses Efektleri/Music and Sound Effects : [Mixkit](https://mixkit.co/)    [Soundjay](https://www.soundjay.com)     [Freesound](https://freesound.org/)
+- Müzik ve Ses Efektleri/Music and Sound Effects : [Mixkit](https://mixkit.co/) ,    [Soundjay](https://www.soundjay.com) ,     [Freesound](https://freesound.org/)
 - Special Thanks Some Unity Store Assets Maker : BayatGames
 
 
 ## License
 
-- Bu proje MIT lisansıyla lisanslanmıştır. [GO TO LICENSE](https://github.com/Serhatdnli/Zipzip-Mobile-Game/blob/main/LICENSE)
+- Bu proje MIT lisansıyla lisanslanmıştır. [GO TO LICENSE](https://github.com/Serhatdnli/ZipzipMobileGame/blob/main/LICENSE)
 ------------------------------------
 
