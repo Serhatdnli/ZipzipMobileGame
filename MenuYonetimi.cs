@@ -104,7 +104,7 @@ public class MenuYonetimi : MonoBehaviour
     {
         SesKapali.SetActive(true);
         SesAcik.SetActive(false);
-        GameObject.Find("MuzikBilgi").GetComponent<Text>().text = "menu müziği kapalı";
+        GameObject.Find("MuzikBilgi").GetComponent<Text>().text = "menu music is off";
         menuses.mute = true;
         VeriYonetimi.kayit.menuses = 1;
     }
@@ -113,7 +113,7 @@ public class MenuYonetimi : MonoBehaviour
     {
         SesKapali.SetActive(false);
         SesAcik.SetActive(true);
-        GameObject.Find("MuzikBilgi").GetComponent<Text>().text = "menu müziği açık";
+        GameObject.Find("MuzikBilgi").GetComponent<Text>().text = "menu music is on";
         menuses.mute = false;
         VeriYonetimi.kayit.menuses = 0;
     }
@@ -122,14 +122,14 @@ public class MenuYonetimi : MonoBehaviour
     {
         SesKapali2.SetActive(false);
         SesAcik2.SetActive(true);
-        GameObject.Find("SesBilgi").GetComponent<Text>().text = "oyun içi müziği açık";
+        GameObject.Find("SesBilgi").GetComponent<Text>().text = "ın game sounds is on";
         VeriYonetimi.kayit.oyunicises = 0;
     } 
     public void OyunIciSesAc()
     {
         SesKapali2.SetActive(true);
         SesAcik2.SetActive(false);
-        GameObject.Find("SesBilgi").GetComponent<Text>().text = "oyun içi müziği kapalı";
+        GameObject.Find("SesBilgi").GetComponent<Text>().text = "ın game sounds is off";
         VeriYonetimi.kayit.oyunicises = 1;
     } 
 
@@ -137,14 +137,14 @@ public class MenuYonetimi : MonoBehaviour
     {
         SesKapali3.SetActive(false);
         SesAcik3.SetActive(true);
-        GameObject.Find("EfektBilgi").GetComponent<Text>().text = "efekt sesleri açık";
+        GameObject.Find("EfektBilgi").GetComponent<Text>().text = "effect sounds is on";
         VeriYonetimi.kayit.efektses = 0;
     } 
     public void EfektAc()
     {
         SesKapali3.SetActive(true);
         SesAcik3.SetActive(false);
-        GameObject.Find("EfektBilgi").GetComponent<Text>().text = "efekt sesleri kapalı";
+        GameObject.Find("EfektBilgi").GetComponent<Text>().text = "effect sounds is off";
         VeriYonetimi.kayit.efektses = 1;
     }  
 

@@ -158,7 +158,7 @@ public class ZeminOlusturma : MonoBehaviour
                     Instantiate(Zemin12,new Vector3(Random.Range(-1.2f,1.2f),i),Quaternion.identity);
                     yield return new WaitForSeconds(0.5f);
                 }
-                else if(i < 1500)
+                else if(i>1400)
                 {
                     i += 3.6f;
                     Instantiate(Zemin13,new Vector3(Random.Range(-1f,1f),i),Quaternion.identity);
